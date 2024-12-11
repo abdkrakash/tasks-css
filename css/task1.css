@@ -1,6 +1,25 @@
 
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 
+}
 .one {
     font-size: 18px;
     color: rgb(229, 15, 15);
+}
+.two {
+    font-size: 18px;
+    color: rgb(15, 229, 104);}
+    .three {
+        font-size: 18px;
+        color: rgb(179, 229, 15);}
+        .four {
+            font-size: 18px;
+            color: rgb(118, 15, 229);}
+
+main{
+    margin: 150px;
 }

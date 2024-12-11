@@ -1,0 +1,32 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.fontsize {
+    font-size:  18px;
+}
+.fontstyle{ 
+    margin-top: 200px;
+    display: inline;
+    color: gray; 
+    font-size: 30px;
+}
+.fontfamily{
+    font-style:initial;
+    color: navy;
+    font-size: 1.5em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.fontexternal{
+    color: purple;
+font-size: 25px;
+font-style: italic;
+font-family: cursive;
+}
+
+
+
+
+
