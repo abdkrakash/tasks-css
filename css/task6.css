@@ -1,0 +1,23 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.h1{
+text-align: left;
+
+}
+.p{
+
+    text-align: left;
+}
+body{
+
+   
+   background-image: url("../html/pic/mandalas-1084082_960_720.jpg");
+background-repeat: repeat-y;
+
+
+
+}

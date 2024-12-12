@@ -1,0 +1,34 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(../html/pic/images.jpg);
+   background-repeat: repeat;
+   background-size: 30%;
+
+}
+.h2{
+    color: red;
+    background-color: whitesmoke;
+    text-decoration: underline;
+    
+}
+.p1{
+background-color: whitesmoke;
+
+}
+.br
+{
+    background-image: url(../html/pic/images.jpg);
+}
+.sp{
+font-weight: bold;
+color: green;
+text-decoration: underline;
+
+}
