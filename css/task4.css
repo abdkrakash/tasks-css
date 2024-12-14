@@ -5,16 +5,12 @@
     box-sizing: border-box;
 }
 
-.h1{
+.a1{
 text-align: center;
+text-transform:capitalize;
 background-color:rgb(15, 101, 101) 
 
-}
-.p1
-{
-text-align: center;
-text-transform: capitalize;
-background-color:rgb(15, 101, 101) 
+
 }
 .h2{
 text-align: left;
@@ -33,14 +29,8 @@ text-align: left;
     text-align: left;
 
 }
-.footer
-{
+.footer{
+
     background-color:rgb(15, 101, 101) ;
 text-align: center;
-}
-.footer1{
-    background-color:rgb(15, 101, 101) ;
-text-align: center;
-
-
 }

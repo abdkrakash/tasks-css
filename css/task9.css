@@ -1,0 +1,16 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.p1{
+    height: 250px;
+    background-image: linear-gradient(to right, #a86aa4 ,#cc6b8e,#f3a469, #f7c978);
+    text-align: center;
+    margin: 50px;
+ 
+
+
+}

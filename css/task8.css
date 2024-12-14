@@ -1,0 +1,24 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.h2{
+color: red;
+text-decoration: underline;
+text-transform: capitalize;
+
+}
+.p1{
+background-image:url(../html/pic/images.jpg);
+color: azure;
+
+}
+.sp
+{
+font-weight: bold;
+color: gold;
+text-transform: uppercase;
+
+}

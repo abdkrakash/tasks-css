@@ -1,0 +1,24 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+  display: block;
+  margin: 30px;
+background-color:burlywood;
+}
+.span1{
+    background-color: aqua;
+}
+.span2{
+    background-color: red;
+}
+.span3{
+    background-color: blueviolet;
+}
+.head{
+    color: brown;
+    font-weight:bolder;
+}

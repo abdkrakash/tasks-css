@@ -1,0 +1,22 @@
+
+
+
+table, th, td {
+    border: 1px solid ;
+    border-collapse: collapse;
+    padding: 8px;
+    background-color: aqua;
+
+  }
+  .talbe-head{
+
+    background-color:blanchedalmond;
+    text-align: center;
+    color: red;
+    font-weight: 800;
+    font-size: large;
+  }
+  .button {
+text-align: center;
+
+  }

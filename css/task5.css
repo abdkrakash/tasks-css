@@ -4,16 +4,20 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 .h1{
     text-align: center;
+    background-color: white;
 }
-.h4{
+.h1{
     text-align: center;
     text-transform: uppercase;
-    font-style:oblique
+    font-style:oblique;
+    background-color:white;
+
 }
 body{
-background-image: url("../pic/del-piero-e1550141190194.jpg");
+background-image: url("../html/pic/images\ \(1\).jpg");
 background-size: cover;
 }
 .h3{
@@ -30,6 +34,5 @@ text-align: left;
     text-align: left;
     color: red;
     background-color: yellow;
-    
-
 }
+

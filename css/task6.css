@@ -12,12 +12,14 @@ text-align: left;
 
     text-align: left;
 }
+
+
 body{
-
-   
-   background-image: url("../html/pic/mandalas-1084082_960_720.jpg");
+background-image: url(../html/pic/maxresdefault.jpg);
 background-repeat: repeat-y;
-
-
+background-size: contain;
 
 }
+
+
+

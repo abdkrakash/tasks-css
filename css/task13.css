@@ -1,0 +1,13 @@
+
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+body{
+
+background: url(../html/pic/3.webp) repeat-y  ,url(../html/pic/2.jpg) repeat-x   ;
+background-size: 25%, 20%;
+}
